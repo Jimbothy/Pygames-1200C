@@ -141,7 +141,9 @@ while not game.over:
     if hero.y> 800 or hero.collidedWith(human):
         end.draw()
         lose.draw()
-        
+    
+    if keys.Pressed[K_UP]:
+        game.over = True    
 
     if hero.y< 0:
         end.draw()
