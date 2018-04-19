@@ -88,7 +88,7 @@ while not game.over:
     platform3.moveTo(300,300)
     platform4.moveTo(190,180)
     platform5.moveTo(490,100)
-    human.moveTowards(hero,10)
+    'human.moveTowards(hero,10)'
         
         
     #Control
