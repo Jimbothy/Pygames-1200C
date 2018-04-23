@@ -3,4 +3,4 @@
 <img src = "https://github.com/Jimbothy/Pygames-1200C/blob/master/Capture%20of%20game.PNG">
 <img src = "https://github.com/Jimbothy/Pygames-1200C/blob/master/Capture%20of%20human.PNG">
 <img src = "https://github.com/Jimbothy/Pygames-1200C/blob/master/Capture%20of%20winning.PNG">
-<img src = "https://github.com/Jimbothy/Pygames-1200C/blob/master/Capture%20of%20winning.PNG">
+<img src = "https://github.com/Jimbothy/Pygames-1200C/blob/master/Capture%20of%20losing%20screen.PNG">
